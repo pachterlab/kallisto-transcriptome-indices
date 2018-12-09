@@ -1,2 +1,2 @@
 # kallisto-transcriptome-indices
-Reference transcriptome indices build from kallisto for popular organisms
+kallisto indices indices constructed from ENSEMBL reference transcriptomes. Downloads available from the [releases](https://github.com/pachterlab/kallisto-transcriptome-indices/releases) page.
