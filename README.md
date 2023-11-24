@@ -124,5 +124,5 @@ All indices were generated using kb-python 0.28.0 (with the kallisto 0.50.1 bina
 
 ## Questions and Issues
 
-Please consult the issues section of the [kallisto repo](https://github.com/pachterlab/kallisto/issues) or the [kb-python](https://github.com/pachterlab/kb_python/issues) repo
+Please use the issues section of the [kallisto repo](https://github.com/pachterlab/kallisto/issues) or the [kb-python](https://github.com/pachterlab/kb_python/issues) repo. Do not use the issues section of this repo.
 
