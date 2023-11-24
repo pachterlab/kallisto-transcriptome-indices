@@ -9,19 +9,33 @@ Indices for five species are available: **human** (*Homo sapiens*), **mouse** (*
 The genome FASTA files and GTF files used to generate the indices are listed below.
 
 1. **human**
+
    Genome: https://ftp.ensembl.org/pub/release-108/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+
    GTF: https://ftp.ensembl.org/pub/release-108/gtf/homo_sapiens/Homo_sapiens.GRCh38.108.gtf.gz
+
 3. **mouse**
+
    Genome: https://ftp.ensembl.org/pub/release-108/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz
+
    GTF: https://ftp.ensembl.org/pub/release-108/gtf/mus_musculus/Mus_musculus.GRCm39.108.gtf.gz
+
 4. **dog**
+
    Genome: https://ftp.ensembl.org/pub/release-108/fasta/canis_lupus_familiaris/dna/Canis_lupus_familiaris.ROS_Cfam_1.0.dna.toplevel.fa.gz
+
    GTF: https://ftp.ensembl.org/pub/release-108/gtf/canis_lupus_familiaris/Canis_lupus_familiaris.ROS_Cfam_1.0.108.gtf.gz
+
 5. **monkey**
+
    Genome: http://ftp.ensembl.org/pub/release-108/fasta/macaca_mulatta/dna/Macaca_mulatta.Mmul_10.dna.toplevel.fa.gz
+
    GTF: https://ftp.ensembl.org/pub/release-108/gtf/macaca_mulatta/Macaca_mulatta.Mmul_10.108.gtf.gz
+
 6. **zebrafish**
+
    Genome: http://ftp.ensembl.org/pub/release-108/fasta/danio_rerio/dna/Danio_rerio.GRCz11.dna.primary_assembly.fa.gz
+
    GTF: http://ftp.ensembl.org/pub/release-108/gtf/danio_rerio/Danio_rerio.GRCz11.108.gtf.gz
 
 ## Types of indices
